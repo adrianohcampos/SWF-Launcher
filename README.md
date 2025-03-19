@@ -6,6 +6,13 @@ Um launcher de jogos SWF construído com React, Electron e Ruffle.
 
 O SWF Launcher é uma aplicação desktop que permite executar jogos Flash (SWF) usando o emulador Ruffle. A aplicação oferece uma interface moderna e intuitiva para gerenciar e jogar seus jogos Flash favoritos.
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="assets/screenshot.png" alt="Interface do SWF Launcher" width="600px">
+  <p><em>Interface principal do SWF Launcher</em></p>
+</div>
+
 ## 🚀 Funcionalidades
 
 - Interface moderna e responsiva
