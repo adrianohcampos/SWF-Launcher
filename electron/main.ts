@@ -145,7 +145,7 @@ async function getGames() {
         id: gameId,
         title: metadata.title || gameId,
         filePath: path.join(gamesPath, file),
-        coverPath: hasCover ? coverPath : path.join(app.getAppPath(), "assets", "default-cover.png"),
+        coverPath: hasCover ? coverPath : path.join(process.resourcesPath, "assets", "default-cover.png"),
         categories: metadata.categories || [],
       }
     })
